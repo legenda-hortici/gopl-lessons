@@ -1,0 +1,5 @@
+0.53s    5451 Bytes https://chatgpt.com/c/67b1c92a-294c-800a-b92e-1fb1afac7101
+1.30s   62384 Bytes https://golang.org
+1.94s    5233 Bytes https://tour.ardanlabs.com/tour/rus/algorithms-bits-seven/1
+2.68s   33510 Bytes https://godoc.org
+4.34s    4154 Bytes http://gopl.io
